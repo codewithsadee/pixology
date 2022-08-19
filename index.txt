@@ -1,0 +1,244 @@
+Pixology - Building Digital Product
+
+
+
+#---------- HEADER ----------#
+
+Pixology
+
+aria-label="close menu"
+
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Services
+Features
+Portfolio
+Blog
+
+aria-label="open menu"
+
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+Let’s Talk 👋
+
+
+
+#---------- HERO ----------#
+
+Building Digital Product, Brand and Experience
+
+At Pixology we specialize in designing, building, shipping and scaling beautiful, usable products with blazing-fast efficiency
+
+How It Works
+
+aria-label="pixology promo"
+<ion-icon name="play-outline" aria-hidden="true"></ion-icon>
+Behind the scenes
+
+--color: hsl(241, 77%, 63%)
+<ion-icon name="logo-facebook"></ion-icon>
+Facebook
+
+--color: hsl(0, 100%, 50%)
+<ion-icon name="logo-youtube"></ion-icon>
+Youtube
+
+--color: hsl(203, 89%, 53%)
+<ion-icon name="logo-twitter"></ion-icon>
+Twitter
+
+alt =  hero banner
+
+
+
+#---------- SERVICE ----------#
+
+Our Services
+
+Managing you business with our best service
+
+--color: 174, 77%, 50%
+
+alt = service icon
+Product Management
+
+--color: 267, 76%, 57%
+Web & Mobile Development
+
+--color: 17, 100%, 68%
+Fast Customer Support
+
+--color: 343, 98%, 60%
+Human Resources
+
+--color: 210, 100%, 53%
+Design and Vreatives
+
+--color: 157, 89%, 44%
+Meketing and Communication
+
+--color: 52, 98%, 50%
+Business Development
+
+--color: 203, 97%, 75%
+04 More Service
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FEATURE ----------#
+
+alt = feature banner
+
+Why Choose us
+
+Specialist in aviding clients of financial challenges
+
+--color: 174, 77%, 50%
+<ion-icon name="rocket-sharp" aria-hidden="true"></ion-icon>
+
+Fast working process
+
+At Pixology we specialize in designing, building, shipping and scaling beautifu.
+
+--color: 241, 77%, 63%;
+<ion-icon name="people-sharp" aria-hidden="true"></ion-icon>
+
+Didicated team
+
+--color: 343, 98%, 60%;
+<ion-icon name="headset-sharp" aria-hidden="true"></ion-icon>
+
+24/7 hours support
+
+
+
+#---------- PROJECT ----------#
+
+Projects
+
+Pixology complete project
+
+Website
+Landing Page
+iOS App
+Landing Page
+Branding Design
+
+alt = Book art design
+
+Book art design
+Branding
+
+alt = Graphic Design
+
+Graphic Design
+Design
+
+alt = 3d Digital Art
+
+3d Digital Art
+
+alt = Web Design
+
+Web Design
+
+alt = Mobile App Design
+
+Mobile App Design
+
+
+
+#---------- NEWSLETTER ----------#
+
+alt = newsletter banner
+
+Get every update
+
+Subscribe newslater get latest updates and deals
+
+placeholder = Enter your mail
+
+Subscribe
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- BLOG ----------#
+
+Blog Post
+
+Popular blog post
+
+alt = Godaddy user flow solution...
+
+Development
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+July 22, 2022
+
+Godaddy user flow solution...
+
+At Pixology we specialize in designing, building, shipping and scaling beautifu. At Pixology we specialize in designing, building, shipping and scaling beautiful.
+
+alt = Godaddy user flow solution for every individual
+
+July 21, 2020
+
+Godaddy user flow solution for every individual
+
+Business solution for every individual
+
+How to gain pro experience ar figma update version
+
+
+
+#---------- FOOTER ----------#
+
+About Pixology
+
+A new way to make the payments easy, reliable and 100% secure. claritatem itamconse quat. Exerci tationulla
+
+<ion-icon name="logo-youtube"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-skype"></ion-icon>
+
+Usefull Links
+
+Contact us
+How it Works
+Create
+Explore
+Terms & Services
+
+Community
+
+Help Center
+Partners
+Suggestions
+Blog
+Newsletters
+
+Instagram post
+
+alt = instagram post
+
+<ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+
+&copy; 2022 Pixology. All Rights Reserved by codewithsadee
+
+Terms and conditions
+Privacy policy
+Login / Signup
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label="back to top"
+
+<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
